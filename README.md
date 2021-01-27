@@ -1,7 +1,7 @@
 # fxserver-notifications
 Notifications utilities for FXServer
 
-![preview](github.com/negbook/notifications/blob/main/preview.png?raw=true)
+![preview](https://github.com/negbook/notifications/blob/main/preview.png?raw=true)
 
 [INSTALLATION]
 
