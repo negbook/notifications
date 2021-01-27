@@ -1,6 +1,8 @@
 # fxserver-notifications
 Notifications utilities for FXServer
 
+![preview](github.com/negbook/notifications/blob/main/preview.png?raw=true)
+
 [INSTALLATION]
 
 Set it as a dependency in you fxmanifest.lua
